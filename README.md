@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Batu</h1>
-<h3 align="center">I work as a Senior AI Research Engineer at Huawei Turkiye. I'm mostly passionate about computer vision and image processing.</h3>
+<h3 align="center">I work as a Senior AI Research Engineer at Huawei Turkiye R&D Center. I'm mostly passionate about computer vision and image processing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bsariturk&label=Profile%20views&color=0e75b6&style=flat" alt="bsariturk" /> </p>
 
