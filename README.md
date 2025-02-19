@@ -5,6 +5,8 @@
 
 - 💬 Ask me about **Computer Vision, Image Processing, Remote Sensing, Photogrammetry, GIS**
 
+- 💻 Currently, I'm improving myself in **AI Agents and Retrieval Augmented Generation (RAG)** 
+
 - 📫 How to reach me **bsariturk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
