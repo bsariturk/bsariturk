@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Computer Vision, Image Processing, Remote Sensing, Photogrammetry, GIS**
 
-- 💻 Currently, I'm improving myself in **AI Agents, Retrieval Augmented Generation (RAG), and Depth Estimation** 
+- 💻 Currently, I'm improving myself mostly in **Vision LLMs and Vision Language Models** 
 
 - 📫 How to reach me **bsariturk@gmail.com**
 
