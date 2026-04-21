@@ -8,8 +8,3 @@
 - 💻 Currently, I'm improving myself mostly in **Vision LLMs and Vision Language Models** 
 
 - 📫 How to reach me **bsariturk@gmail.com**
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bsariturk&show_icons=true&locale=en&layout=compact" alt="bsariturk" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bsariturk&show_icons=true&locale=en" alt="bsariturk" /></p>
-
